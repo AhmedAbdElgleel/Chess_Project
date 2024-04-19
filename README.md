@@ -33,6 +33,8 @@ To play Mr. Chess, ensure you have Python and Pygame installed on your system. T
 ## Gameplay Video:
 ![Chess Board](https://drive.google.com/uc?id=1HGAmjDFk-IjhLVshBHimNbNOhO47YgH9)
 
+![Chess Board_Playing](https://drive.google.com/uc?id=1rXasOmCi591g9e042lVFaZkWytcJi9Sj)
+
 [![Mr. Chess Gameplay](https://drive.google.com/uc?export=view&id=VIDEO_ID_HERE)](https://drive.google.com/drive/u/0/folders/1iyg3569V7ss5v6N-zDn5cyGuvf1ZWTvW)
 
 ## Feedback:
