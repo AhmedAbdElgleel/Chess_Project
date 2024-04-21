@@ -1,5 +1,12 @@
 # Mr. Chess: 2D 2Player Chess Game
 
+## Gameplay Video:
+![Chess Board](https://drive.google.com/uc?id=1HGAmjDFk-IjhLVshBHimNbNOhO47YgH9)
+
+![Chess Board_Playing](https://drive.google.com/uc?id=1rXasOmCi591g9e042lVFaZkWytcJi9Sj)
+
+[Gameplay Video](https://drive.google.com/file/d/1EHPkj5D3p0KwBkvWdRn5OEJ1RMqNE4mC/view?t=2)
+
 Welcome to Mr. Chess, Mr. Chess is a 2D 2Player Chess game developed using Pygame in Python where two players can play against each other.
 
 ## Overview:
@@ -30,12 +37,6 @@ Mr. Chess is developed using Pygame, a popular library for creating 2D games in 
 
 To play Mr. Chess, ensure you have Python and Pygame installed on your system. Then, download the project files and run the main Python script to start the game.
 
-## Gameplay Video:
-![Chess Board](https://drive.google.com/uc?id=1HGAmjDFk-IjhLVshBHimNbNOhO47YgH9)
-
-![Chess Board_Playing](https://drive.google.com/uc?id=1rXasOmCi591g9e042lVFaZkWytcJi9Sj)
-
-[Gameplay Video](https://drive.google.com/file/d/1EHPkj5D3p0KwBkvWdRn5OEJ1RMqNE4mC/view?t=2)
 
 ## Feedback:
 
